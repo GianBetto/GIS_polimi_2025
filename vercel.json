@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/no2", "destination": "/pages/no2.html" },
+    { "source": "/pm25", "destination": "/pages/pm25.html" },
+    { "source": "/pm10", "destination": "/pages/pm10.html" }
+  ]
+}
